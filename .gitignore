@@ -1,6 +1,3 @@
 node_modules/
 bakcups/
 vendor/
-.env
-config.json
-secret-keys.txt
